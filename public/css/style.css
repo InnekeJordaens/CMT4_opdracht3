@@ -7,7 +7,7 @@ h1 {
   font-size: 5rem;
   text-align: center;
   margin: 0;
-  padding: 10rem 2rem 3rem 2rem;
+  padding: 13rem 2rem 3rem 2rem;
   background-color: #00755c;
   color: white;
 }
@@ -147,6 +147,18 @@ nav {
   top: 0;
   right: 2rem;
   margin-left: 2rem;
+}
+
+.back {
+  width: 15rem;
+  font-size: 4rem;
+  height: auto;
+  position: absolute;
+  top: -1rem;
+  left: 0rem;
+  margin-left: 2rem;
+  padding: 1rem;
+  border: 2px solid white;
 }
 
 footer {

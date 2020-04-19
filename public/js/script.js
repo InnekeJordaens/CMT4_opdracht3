@@ -14,6 +14,16 @@ function showMenu() {
 menuknop.addEventListener("click", showMenu);
 hideNav.addEventListener("click", hideMenu);
 
+//back button
+let back = document.querySelector(".back");
+
+back.addEventListener("click", goBack);
+
+function goBack() {
+  window.history.back();
+};
+
+
 //filterbuttons
 let filter = document.querySelector(".filter");
 let buttons = document.querySelector(".buttons");
@@ -53,4 +63,4 @@ var iso = new Isotope(".overview", {
     console.log(filtervalue);
     iso.arrange({filter: filtervalue });
   };
-}
+};
