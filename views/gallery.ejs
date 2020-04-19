@@ -1,0 +1,22 @@
+<%- include("header"); -%>
+
+<div class="filterBox">
+  <h2 class= "filter">Filter</h2>
+    <div class="buttons onzichtbaar">
+      <button class="filterbutton" data-filter="*">All</button>
+      <button class="filterbutton" data-filter=".environment">Animals in their Environment</button>
+      <button class="filterbutton" data-filter=".portrait">Animal Portraits</button>
+      <button class="filterbutton" data-filter=".urban">Urban Wildlife</button>
+      <img class="hideButtons" src="/images/hide_buttons.png" alt="cross">
+    </div>
+</div>
+
+<div class="overview">
+<% for (let i=0; i<works.length; i++) { %>
+  <section>
+    <%- include("work", {works: works[i], index: i}); -%>
+  </section>
+<% } %>
+</div>
+
+<%- include("footer"); -%>

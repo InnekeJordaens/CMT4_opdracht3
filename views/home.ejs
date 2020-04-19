@@ -1,0 +1,31 @@
+<%- include("header"); -%>
+<h2>The Museum is a world-class visitor attraction and leading science research centre.</h2>
+<p>We use our unique collections and unrivalled expertise to tackle the biggest challenges facing the world today. <br>We care for more than 80 million specimens spanning billions of years and welcome more than five million visitors annually.</p>
+
+<h2>This week's photo in the spotlight:</h2>
+<% for (let i=0; i<1; i++) { %>
+  <section>
+    <%- include("work", {works: works[i], index: i}); -%>
+  </section>
+<% } %>
+
+<h2>Our vision and strategy</h2>
+<h3>We are creating advocates for the planet.</h3>
+<p>We face a planetary emergency. Our future depends on the natural world, but we are not combating our own destructive impact on the planet.
+
+Earth is now changing fast under the influence of human behaviour. Climate change and biodiversity loss are just some of the manifestations.
+
+By threatening natural systems, we threaten our own future. We must act now, we must act on scientific evidence and we must act together.</p>
+
+<h3>Our hope</h3>
+<p>Understanding life on Earth is the greatest scientific challenge of our age. We cannot hope to develop solutions without research that unlocks the underlying biology and applied science.
+
+Alongside the science, all of us need hope: hope that there is a future where both people and the planet thrive. Building and spreading this hope through evidence and action will be the foundation of our strategy in the coming decade.
+
+In today's challenging times, we will create advocates for the planet: individuals who feel sufficiently informed, confident and motivated to make wise decisions, to get involved, and to use their influence and actions to make a positive difference to the global future.
+
+To achieve this, we will harness our collection, our research and our reach.</p>
+
+
+
+<%- include("footer"); -%>

@@ -1,0 +1,112 @@
+{
+  "works": [
+    {
+      "title": "Snow-Plateau Nomads",
+      "description": "A small herd of male chirus makes its way to the relative warmth of the Kumukuli Desert. These nimble antelopes are high-altitude specialists found only on the Qinghai–Tibet Plateau. For years, Shangzhen made the long, arduous journey to observe them there. Here he drew the contrasting elements of snow and sand together. Underneath their long hair, chirus have a light, warm underfur called shahtoosh. It grows tightly against their skin and can only be harvested by killing and skinning the chirus. Protection since the 1990s has seen their once-decimated numbers increase, but there is still demand – primarily from Westerners – for shahtoosh shawls.",
+      "credit": "Shangzhen Fan",
+      "date": "2019",
+      "location": "Kumukuli Desert, Qinghai, China",
+      "class": ["environment"],
+      "imageURL": "/images/snow_plateau_nomads.png"
+    },
+    {
+      "title": "Polar Night Hare",
+      "description": "In the silence of the frozen forest a mountain hare pauses in its tracks. Gliding across the snow on his skis, Antti knew he had to remain silent so as not to disturb the timid mountain hare. Using tree branches to frame the distant hare, he captured the stillness of the moment and, he says, ‘the magic of a frozen boreal forest on a polar night’. Polar nights occur in the far north where the sun does not rise in winter, creating days of just a few hours of twilight. Ambient light paints the landscape an eerie shade of blue. The mountain hare is camouflaged against the thick snow blanketing the ground. When the snow melts, its fur will turn brown again, disguising it against the dark forest floor.",
+      "credit": "Antti Haataja",
+      "date": "2019",
+      "location": "Pallas-Yllästunturi National Park, Finland",
+      "class": ["environment"],
+      "imageURL": "/images/polar_night_hare.png"
+    },
+    {
+      "title": "A Taste of Peace",
+      "description": "A lone bull elephant reaches up to feed at dusk. Elephants in Gorongosa National Park are very wary of people but this male seemed relaxed, so Charlie approached slowly and quietly. Hiding behind a tree, he framed his picture, encapsulating the peaceful scene. Mozambique’s 15-year civil war decimated its elephant population. Their meat was used to feed soldiers while their ivory helped to buy weapons. Since the conflict ended in 1992, elephant populations have been slowly growing. Today, thanks to conservation efforts, the park has 650 elephants protected by 250 rangers.",
+      "credit": "Charlie Hamilton James",
+      "date": "2019",
+      "location": "Gorongosa National Park, Mozambique",
+      "class": ["environment"],
+      "imageURL": "/images/a_taste_of_peace.png"
+    },
+    {
+      "title": "Striking Gold",
+      "description": "Emmanuel could hardly believe it when he captured this shot within 24 hours of setting up his camera trap. It was not all luck, though. For months he had been working with scientists and conservationists to identify trails used by jaguars. His composition conveys the shy and elusive nature of this powerful predator, finely camouflaged in its rainforest home. Gold mining is a growing threat to jaguars’ territory in the Amazon. Explosives, fuel pollution, and poisonous cyanide released when gold is processed are disruptive and destructive. Plans to create an open-pit mine between two forest reserves in French Guiana have recently been abandoned, but it is uncertain whether new applications to mine will be denied.",
+      "credit": "Emmanuel Rondeau",
+      "date": "2019",
+      "location": "Nouragues Nature Reserve, French Guiana",
+      "class": ["environment"],
+      "imageURL": "/images/striking_gold.png"
+    },
+    {
+      "title": "The Challenge",
+      "description": "This polar bear appears tiny as it scales a steep scree slope. Steadying herself in a boat a few hundred metres from the shore, Françoise captured this image which she says shows how ‘even one of the most impressive predators can look insignificant and vulnerable in the immensity and inhospitality of this landscape’. Climate change has reduced the expanse of sea ice from which polar bears usually hunt seals. Baffin Island polar bears now spend an extra 20 to 30 days a year on land compared to in the 1990s. Adapting to spending more time on land means expanding their diet. Some bears have been spotted scrambling on cliffs to reach birds and their eggs.",
+      "credit": "Françoise Gervais",
+      "date": "2019",
+      "location": "Baffin Island, Nunavut, Canada",
+      "class": ["environment"],
+      "imageURL": "/images/the_challenge.png"
+    },
+    {
+      "title": "Face of Deception",
+      "description": "Ripan was photographing a red weaver ant colony when he spotted this slightly strange individual. It may have the face of an ant but its eight legs give it away – on closer inspection Ripan discovered that it was an ant-mimicking crab spider. By reverse mounting his lens, Ripan converted it to a macro capable of taking extreme close-ups. Many spider species imitate ants in appearance and behaviour. Infiltrating an ant colony can help them prey on unsuspecting ants or avoid being eaten by predators that dislike ants. This particular spider, says Ripan, seemed to be roaming around the colony, looking for a solitary ant that it could grab for a meal.",
+      "credit": "Ripan Biswas",
+      "date": "2019",
+      "location": "Buxa Tiger Reserve, West Bengal, India",
+      "class": ["portrait"],
+      "imageURL": "/images/face_of_deception.png"
+    },
+    {
+      "title": "Portrait of a Mother",
+      "description": "When you are eye to eye with a wild puma,’ says Ingo, ‘excitement is guaranteed.’ Tracking these elusive cats on foot meant lugging heavy gear long distances, often in freezing temperatures and unrelenting winds. Mutual respect gradually earned him the trust of a female and her cubs, allowing him to capture this intimate family portrait. Pumas remain playful throughout their lives. Play-fighting teaches cubs vital survival skills including how to hunt, fight and escape. The cubs will stay with their mother for up to two years before gaining independence. They will live a solitary existence as adults until it is their turn to breed.",
+      "credit": "Ingo Arndt",
+      "date": "2019",
+      "location": "Torres del Paine, Patagonia, Chile",
+      "class": ["portrait"],
+      "imageURL": "/images/portrait_of_a_mother.png"
+    },
+    {
+      "title": "Portrait of the Spanish Tarantula",
+      "description": "Javier crouched down and the gleaming black eyes of a Spanish tarantula peeped out from the entrance to her lair. Her appearance was fleeting, but just long enough for Javier to capture this handsome portrait, which he hopes will ‘change some people’s minds about these spiders’. Not a true tarantula, this spider is actually a type of wolf spider. Her leafy burrow is knotted together with silk. Vibrations at the burrow entrance are transmitted to her along these strands so she can dart out and capture passing insects. With a mottled colour she blends in beautifully, well camouflaged against the leaf litter.",
+      "credit": "Javier Aznar González de Rueda",
+      "date": "2019",
+      "location": "Murcia, Spain",
+      "class": ["portrait"],
+      "imageURL": "/images/portrait_of_the_spanish_tarantula.png"
+    },
+    {
+      "title": "The Rat Pack",
+      "description": "On Pearl Street in Lower Manhattan, brown rats scamper between their home under a tree grille and a pile of rubbish bags full of food waste. Lighting his shot to blend with the glow of the street lights and operating his kit remotely, Charlie captured this intimate, street-level view. Urban rat populations are rising fast worldwide and their association with spreading disease in humans inspires fear and disgust. Rats are smart and capable of navigating complex networks such as subway systems. Being powerful swimmers, burrowers and jumpers makes these rodents particularly well suited to city living.",
+      "credit": "Charlie Hamilton James",
+      "date": "2019",
+      "location": "Pearl Street, New York, USA",
+      "class": ["urban"],
+      "imageURL": "/images/the_rat_pack.png"
+    },
+    {
+      "title": "Couch Crew",
+      "description": "In a disused temple in Hua Hin, young long-tailed macaques relax on a sofa tattered from their playtime antics. Cyril framed a group that had positioned themselves ‘like band members posing for an album cover’, while others leapt back and forth between a statue, his rucksack and even the top of his head. Long-tailed macaques are very adaptable, thriving in a range of habitats including living alongside humans. In Thailand people have a complex relationship with the monkeys. The macaques are tolerated and sometimes even venerated near temples. At the same time, when they damage farms and property they are regarded as pests.",
+      "credit": "Cyril Ruoso",
+      "date": "2019",
+      "location": "Hua Hin, Prachuap Khiri Khan, Thailand",
+      "class": ["urban"],
+      "imageURL": "/images/couch_crew.png"
+    },
+    {
+      "title": "Framed",
+      "description": "The hunched figure of a rat is silhouetted in a broken window. When Florian returned to the abandoned house that he had frequented as a teenager, he found nature had started to take over. He set up his camera looking in through the window and lit the scene with three flashes. His composition perfectly captures the spooky atmosphere of the derelict house. Brown rats originated in northern China and spread across the globe aboard trading ships. Native to forests and bushy areas, today they are quick to colonise anywhere with suitable food and shelter. Female rats can give birth to up to 60 babies a year, contributing to the difficulty of controlling their population.",
+      "credit": "Florian Smit",
+      "date": "2019",
+      "location": "Osterholz-Scharmbeck, Lower Saxony, Germany",
+      "class": ["urban"],
+      "imageURL": "/images/framed.png"
+    },
+    {
+      "title": "Lucky Break",
+      "description": "A raccoon poked her head out of an abandoned car and paused to assess her surroundings, allowing Jason just enough time to use a long exposure in the twilight. The back seat was an ideal den for the raccoon and her five cubs as the only entrance – through a blunt-edged hole in the glass – was large enough for her but too small for predators such as coyotes. Raccoons tend to make their dens in hollow trees or rock crevices but they are extremely adaptable. Emerging at dusk, this mother will spend the night foraging for food for herself and her young. Raccoons are opportunistic and will eat anything from fruit and nuts to the contents of rubbish bins.",
+      "credit": "Jason Bantle",
+      "date": "2019",
+      "location": "Sonningdale, Saskatchewan, Canada",
+      "class": ["urban"],
+      "imageURL": "/images/lucky_break.png"
+    }
+  ]
+}
